@@ -2147,6 +2147,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -2354,6 +2355,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -2638,6 +2640,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -2868,6 +2871,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -3164,6 +3168,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -3578,6 +3583,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
 			<links/>
 			<ActivityMessages/>
@@ -4017,6 +4023,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -4301,6 +4308,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -4557,6 +4565,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<ShareMessageMap>false</ShareMessageMap>
 			<SubProcessInstanceID></SubProcessInstanceID>
 			<SubprocessCrashRecovery>asInSubProcess</SubprocessCrashRecovery>
@@ -4841,6 +4850,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -5223,6 +5233,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
@@ -5427,7 +5438,7 @@
 		</ServiceTask>
 		<HumanTask
 			type="com.cordys.bpm.activity.HumanTask"
-			typeVersion="D6F8B2B5-77F6-40E4-AD91-6A597F4DDDB1 ru3229e8-6598-4208-9804-a6e623c0qyte"
+			typeVersion="6B242BAC-2CF5-4676-8CF4-9176288B0CFD ru3229e8-6598-4208-9804-a6e623c0qyte"
 			RuntimeDocumentID="005056A2-27FA-A1EE-9C3C-77F6D0E7C1A8">
 			<DocumentID>005056A2-27FA-A1EE-9C3C-77F6D0E781A8</DocumentID>
 			<Name>PFPServiceTask (3)</Name>
@@ -5552,6 +5563,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SendEmail>false</SendEmail>
 			<SendReminderDynamic>staticBusinessDays</SendReminderDynamic>
 			<SenderDisplayName></SenderDisplayName>
@@ -5912,7 +5924,7 @@
 		</HumanTask>
 		<HumanTask
 			type="com.cordys.bpm.activity.HumanTask"
-			typeVersion="D6F8B2B5-77F6-40E4-AD91-6A597F4DDDB1 ru3229e8-6598-4208-9804-a6e623c0qyte"
+			typeVersion="6B242BAC-2CF5-4676-8CF4-9176288B0CFD ru3229e8-6598-4208-9804-a6e623c0qyte"
 			RuntimeDocumentID="005056A2-27FA-A1EE-9C3F-0B4A503341A8">
 			<DocumentID>005056A2-27FA-A1EE-9C3F-0B4A503301A8</DocumentID>
 			<Name>PFPServiceTask (2)</Name>
@@ -6037,6 +6049,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SendEmail>false</SendEmail>
 			<SendReminderDynamic>staticBusinessDays</SendReminderDynamic>
 			<SenderDisplayName></SenderDisplayName>
@@ -6455,6 +6468,7 @@
 			<RpaRoboName></RpaRoboName>
 			<RpaRoboSelection>static</RpaRoboSelection>
 			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
 			<SoapProcessor></SoapProcessor>
 			<SoapRequestTimeOut></SoapRequestTimeOut>
 			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
